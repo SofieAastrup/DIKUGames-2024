@@ -8,5 +8,4 @@ public class PlayerShot : Entity {
     public PlayerShot(Vec2F position, IBaseImage image){
 
     }
-    
 }
